@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Alyan</h1>
+<h1 align="center">I'm Alyan</h1>
 <h3 align="center">Full-Stack AI Engineer | Building AI systems for reliability and scale that cut costs and save time</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+Agents+%7C+AI+Products;Obervability+Evaluation;Ownership+%7C+FastAPI Services" alt="Typing SVG" />
-</p>
+ 
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=AI+Automation+%7C+Voice+Agents;Full+Stack+Developer;Next.js+%7C+FastAPI+%7C+PostgreSQL;Sales+%7C+Marketing+%7C+Support+%7C+Real+Estate" alt="Typing SVG" /> </p>
 
 ---
 
@@ -47,15 +45,6 @@
 <img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hermes%20Agent-000000?style=for-the-badge"/>
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="165"/>
 </p>
 
 ---
