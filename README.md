@@ -9,7 +9,7 @@
 
 ### About Me
 
-- AI Engineer at **Barq Digital**, delivered production ready AI Agents, End to End AI Solutions and business automations.
+- Delivered production ready AI Agents, End to End AI Solutions and business automations.
 - CS graduate
 - Currently deepening architecture for maintaining agents in production
 - Served AI solutions across Sales, Marketing, Customer Support, and Real Estate
